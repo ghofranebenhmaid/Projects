@@ -7,5 +7,8 @@
 * If the Queen is added to the class she should always get a space.
 * You cannot add an empty string to a class
 
-[Demo](https://htmlpreview.github.io/?https://github.com/benhmaid/JS-Functions/blob/master/Queen-class/index.html "Queen class") Student manager
-![queenclass](https://user-images.githubusercontent.com/54797163/74260371-b37b6e80-4cf9-11ea-9223-8c1732e42443.jpg)
+> [Demo](https://htmlpreview.github.io/?https://github.com/benhmaid/JS-Functions/blob/master/Queen-class/index.html "Queen class") Student manager
+
+---
+> ![queenclass](https://user-images.githubusercontent.com/54797163/74260371-b37b6e80-4cf9-11ea-9223-8c1732e42443.jpg)
+___
